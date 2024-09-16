@@ -8,7 +8,7 @@ Soy Nacho, un estudiante de ASIR. Me apasiona la programación y siempre estoy b
 
 ### Experiencia y Habilidades
 
-- **Lenguajes de Programación:** Java  <img src="https://imgs.search.brave.com/7fWL_xYWat7R6dmjIixtrFGpMcUQPMQtQG87EMy-m1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/MTgxX0phdmFfbG9n/b19sb2dvcy01MTIu/cG5n" alt="Java" width="30"/> / JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20"/> / SQL / C++
+- **Lenguajes de Programación:** Java  <img src="https://imgs.search.brave.com/7fWL_xYWat7R6dmjIixtrFGpMcUQPMQtQG87EMy-m1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/MTgxX0phdmFfbG9n/b19sb2dvcy01MTIu/cG5n" alt="Java" width="30"/> / JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20"/> / SQL / C++ <img src="https://imgs.search.brave.com/oGUKSiblpI1Vl3sVM--4zWpGX0iY7OY2526I7r_x4CY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0lTT19DKytf/TG9nby5zdmc" alt="C++" width="20"/>
 - **Educación:** Ciclo Formativo de Grado Superior de ASIR
 
 ## Proyectos Actuales
