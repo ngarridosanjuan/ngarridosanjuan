@@ -8,8 +8,7 @@ Soy Nacho, un estudiante de ASIR. Me apasiona la programación y siempre estoy b
 
 ### Experiencia y Habilidades
 
-- **Lenguajes de Programación:** Java / JavaScript / SQL / C++
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+- **Lenguajes de Programación:** Java / JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/> / SQL / C++
 - **Educación:** Ciclo Formativo de Grado Superior de ASIR
 
 ## Proyectos Actuales
