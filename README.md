@@ -25,6 +25,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 - **LinkedIn:** Ignacio Garrido-Lestache
 
 ---
+>Vives dos vidas y la segunda emoieza cuando te das cuenta de que solo hay una - A Garcia 
 
 ¡Gracias por visitar mi perfil en GitHub! No dudes en explorar los proyectos.
 
