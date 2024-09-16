@@ -8,7 +8,7 @@ Soy Nacho, un estudiante de ASIR. Me apasiona la programación y siempre estoy b
 
 ### Experiencia y Habilidades
 
-- **Lenguajes de Programación:** Java  <img src="https://imgs.search.brave.com/7fWL_xYWat7R6dmjIixtrFGpMcUQPMQtQG87EMy-m1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/MTgxX0phdmFfbG9n/b19sb2dvcy01MTIu/cG5n" alt="Java" width="50"/> / JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20"/> / SQL / C++
+- **Lenguajes de Programación:** Java  <img src="https://imgs.search.brave.com/7fWL_xYWat7R6dmjIixtrFGpMcUQPMQtQG87EMy-m1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/MTgxX0phdmFfbG9n/b19sb2dvcy01MTIu/cG5n" alt="Java" width="20"/> / JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20"/> / SQL / C++
 - **Educación:** Ciclo Formativo de Grado Superior de ASIR
 
 ## Proyectos Actuales
