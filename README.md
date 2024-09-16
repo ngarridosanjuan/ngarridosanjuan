@@ -26,7 +26,7 @@ Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 ---
 
-¡Gracias por visitar mi perfil en GitHub! No dudes en explorar los proyectos y en conectarte si tienes alguna pregunta o simplemente quieres charlar sobre tecnología.
+¡Gracias por visitar mi perfil en GitHub! No dudes en explorar los proyectos.
 
 <!--
 **ngarridosanjuan/ngarridosanjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
