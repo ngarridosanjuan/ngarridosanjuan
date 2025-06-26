@@ -15,7 +15,7 @@ Soy Nacho, un estudiante de ASIR. Me apasiona la programación y siempre estoy b
 
 Aquí están algunos de los proyectos en los que estoy trabajando actualmente:
 
-- **Aplicacion web de monitorización de serviores Linux**: Descricion personal
+- **Aplicacion web de monitorización de serviores Linux**: Herramienta web ligera diseñada para la monitorización remota de servidores Linux a traves de SSH
 
 ## Cómo Contactarme
 
