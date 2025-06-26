@@ -15,13 +15,13 @@ Soy Nacho, un estudiante de ASIR. Me apasiona la programación y siempre estoy b
 
 Aquí están algunos de los proyectos en los que estoy trabajando actualmente:
 
-- **Conoceme**: Descricion personal
+- **Aplicacion web de monitorización de serviores Linux**: Descricion personal
 
 ## Cómo Contactarme
 
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
-- **Correo Electrónico:** n.garridosanjuan@gmail.com  
+- **Correo Electrónico:** garridolestachei@gmail.com
 - **LinkedIn:** Ignacio Garrido-Lestache
 
 ---
